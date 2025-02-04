@@ -1,2 +1,1 @@
-!doctype Html
-<p>You know What Fuck yall</p>
+<h1>You know What Fuck yall</h1>
