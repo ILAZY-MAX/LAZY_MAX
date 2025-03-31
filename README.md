@@ -5,7 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simple Shop</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f8f9fa; text-align: center; }
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0; 
+            padding: 0; 
+            background: url('https://www.getsims.com/wp-content/uploads/2020/12/gradient-background-02.jpg') no-repeat center center fixed; 
+            background-size: cover; 
+            text-align: center; 
+        }
         header { background-color: #343a40; color: white; padding: 20px; font-size: 24px; }
         nav { background: #23272b; padding: 10px; }
         nav a { color: white; text-decoration: none; margin: 15px; font-size: 18px; }
